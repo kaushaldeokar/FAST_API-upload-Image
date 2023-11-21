@@ -1,4 +1,4 @@
 # FAST_API-upload-Image
-pip install fastapi uvicorn
-uvicorn main:app --reload
-pip install python-multipart
+pip install fastapi uvicorn <br />
+uvicorn main:app --reload <br />
+pip install python-multipart <br />
